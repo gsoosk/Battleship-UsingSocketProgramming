@@ -6,13 +6,13 @@
 
 For compiling Server and Client go to their folder and run this command :
 
-    >
+
       make
 * Note: 
 You should install gcc compiler first.
 
 Then for run just use this commands in server and client repositories :
-    >
+
       ./Server HeartbeatPort ClientBroadcastPort
       ./Client HeartbeatPort ClientBroadcastPort
 
